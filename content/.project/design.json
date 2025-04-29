@@ -1,0 +1,9 @@
+{
+  "Tags": [
+    {
+      "Key": "GRM_Claims_Cardinal"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
